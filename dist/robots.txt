@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-quality-windows-specialists-inc.dream-surge.com/sitemap-index.xml

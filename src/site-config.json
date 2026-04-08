@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Quality Windows Specialists Inc",
+    "phone": "+12627818899",
+    "category": "window replacement company",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Milwaukee's Window Replacement Experts",
+      "heroSubline": "Quality Windows Specialists Inc delivers durable, energy-efficient window solutions. Built for Wisconsin's toughest weather.",
+      "aboutTitle": "Built on Milwaukee Values, Focused on Quality",
+      "aboutText": [
+        "Quality Windows Specialists Inc started with a simple goal: to provide Milwaukee homeowners with reliable window replacement services they can trust. We're a local team, born and raised in Wisconsin, and we understand the unique challenges our climate presents.",
+        "Our approach is straightforward: honest assessments, transparent pricing, and meticulous workmanship. We don't cut corners, and we stand behind every window we install. Our reputation is built on exceeding expectations, one project at a time.",
+        "We're proud to be part of the Milwaukee community. We actively support local initiatives and believe in giving back to the neighborhoods we serve. When you choose us, you're not just getting new windows; you're investing in a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Milwaukee's climate and housing styles, ensuring the right window solutions for your home."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only high-quality, energy-efficient windows built to withstand Wisconsin winters and humid summers."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled technicians ensure precise installation for optimal performance and longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront quotes with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Get a Free Window Replacement Quote",
+      "ctaSubline": "Protect your home and save on energy bills. Contact us today for a no-obligation consultation."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your home with energy-efficient, long-lasting windows.",
+        "description": "Milwaukee's extreme weather demands windows that can withstand harsh conditions. Our window replacement service provides durable, energy-efficient solutions tailored to your home's specific needs. We begin with a comprehensive assessment of your existing windows, identifying areas of air leakage, drafts, and structural damage. We then help you select the right window styles and materials to improve energy efficiency, enhance curb appeal, and increase your home's value. \n\nOur expert installation team ensures precise fitting and sealing, preventing air and water infiltration. We handle everything from removing old windows to installing new ones, including proper insulation and finishing. We minimize disruption to your home and leave the work area clean and tidy. We focus on energy-efficient windows with low-E coatings and argon gas fills that reduce heat transfer and lower energy bills. \n\nWhether you own a classic Milwaukee bungalow or a modern Third Ward loft, we have the expertise to handle any window replacement project. We work closely with you to select the best options to match your home's architectural style and your personal preferences.",
+        "process": [
+          "Step 1: Initial Consultation and Assessment",
+          "Step 2: Window Selection and Customization",
+          "Step 3: Precise Measurement and Ordering",
+          "Step 4: Professional Installation and Finishing"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Enhanced Curb Appeal",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows and the complexity of the installation. Most projects are completed in one to three days."
+          },
+          {
+            "question": "What type of windows are best for Milwaukee winters?",
+            "answer": "Windows with low-E coatings, argon gas fills, and durable frames (like vinyl or fiberglass) are ideal for minimizing heat loss and withstanding cold temperatures."
+          },
+          {
+            "question": "Do you offer any warranties on your window replacements?",
+            "answer": "Yes, we offer comprehensive warranties on both the windows themselves and our installation services, providing you with peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "energy-efficient-windows",
+        "name": "Energy-Efficient Windows",
+        "shortDescription": "Lower your energy bills with our high-performance window solutions.",
+        "description": "Wisconsin's climate puts a strain on your heating and cooling systems, leading to high energy bills. Our energy-efficient windows are designed to minimize heat transfer, keeping your home comfortable year-round and reducing your energy consumption. We offer a wide selection of windows with advanced features like low-E coatings, argon gas fills, and multi-pane glass. These technologies significantly improve insulation and reduce drafts, preventing heat loss in winter and heat gain in summer. \n\nWe assess your home's energy efficiency needs and recommend the best window options to maximize your savings. We install windows with airtight seals to prevent air leakage and ensure optimal performance. Our team is trained in the latest energy-efficient installation techniques, ensuring that your new windows are properly fitted and sealed. \n\nInvesting in energy-efficient windows not only saves you money on energy bills but also increases your home's value and reduces your carbon footprint. Take control of your energy costs and create a more comfortable living environment with our energy-efficient window solutions.",
+        "process": [
+          "Step 1: Energy Efficiency Assessment",
+          "Step 2: Window Selection Based on Energy Performance",
+          "Step 3: Professional Installation with Airtight Sealing",
+          "Step 4: Post-Installation Energy Audit (Optional)"
+        ],
+        "benefits": [
+          "Lower Energy Bills",
+          "Improved Home Comfort",
+          "Reduced Carbon Footprint",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How much can I save with energy-efficient windows?",
+            "answer": "Savings vary depending on your home's size, window type, and energy usage. However, homeowners typically see a 15-25% reduction in energy bills after upgrading to energy-efficient windows."
+          },
+          {
+            "question": "What is a low-E coating?",
+            "answer": "A low-E (low-emissivity) coating is a thin, transparent layer applied to the glass surface to reduce heat transfer by reflecting infrared light. This helps keep your home cooler in summer and warmer in winter."
+          },
+          {
+            "question": "Are there any tax credits or rebates for energy-efficient windows?",
+            "answer": "Tax credits and rebates vary by location and program. We can help you identify any available incentives to reduce the cost of your window replacement project."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Extend the life of your windows with our expert repair services.",
+        "description": "Don't replace your windows unnecessarily. Our window repair service can restore damaged or malfunctioning windows to their original condition, saving you money and extending their lifespan. We handle a wide range of window repairs, including broken glass replacement, sash repair, frame repair, and hardware replacement. We assess the damage and provide cost-effective solutions to address the problem. \n\nWe use high-quality materials and proven techniques to ensure lasting repairs. Our experienced technicians are skilled in working with various window types and styles. We strive to minimize disruption to your home and complete repairs quickly and efficiently. \n\nWhether you have a cracked window pane, a sticking sash, or damaged window hardware, we can help. Contact us today for a free estimate and let us restore your windows to their optimal performance.",
+        "process": [
+          "Step 1: Window Damage Assessment",
+          "Step 2: Repair Solution Recommendation",
+          "Step 3: Precise Repair Execution",
+          "Step 4: Quality Assurance and Testing"
+        ],
+        "benefits": [
+          "Cost Savings",
+          "Extended Window Lifespan",
+          "Improved Home Security",
+          "Enhanced Window Performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my window needs to be repaired or replaced?",
+            "answer": "If your window has cracked glass, a damaged frame, or is difficult to open or close, it may need repair. If the damage is extensive or the window is very old, replacement may be a better option."
+          },
+          {
+            "question": "Can you repair foggy windows?",
+            "answer": "Foggy windows indicate that the seal between the glass panes has failed, allowing moisture to enter. In most cases, foggy windows can be repaired by replacing the glass panes."
+          },
+          {
+            "question": "How long does window repair take?",
+            "answer": "The duration of window repair depends on the type and extent of the damage. Simple repairs like glass replacement can often be completed in a few hours, while more complex repairs may take longer."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-window-replacement",
+        "name": "Vinyl Window Replacement",
+        "shortDescription": "Durable, low-maintenance vinyl windows for Milwaukee homes.",
+        "description": "Vinyl windows are a popular choice for Milwaukee homeowners due to their durability, energy efficiency, and low maintenance requirements. Our vinyl window replacement service offers a wide selection of styles and colors to complement your home's architecture. We use high-quality vinyl frames that are resistant to rot, warping, and fading, ensuring long-lasting performance in Wisconsin's harsh climate. \n\nVinyl windows are also energy-efficient, helping to reduce your heating and cooling costs. They provide excellent insulation and prevent air leakage, keeping your home comfortable year-round. Our expert installation team ensures precise fitting and sealing, maximizing the energy efficiency of your new vinyl windows. \n\nEnjoy the benefits of durable, low-maintenance windows with our vinyl window replacement service. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Vinyl Window Style and Color Selection",
+          "Step 2: Precise Measurement and Ordering",
+          "Step 3: Professional Installation with Airtight Sealing",
+          "Step 4: Post-Installation Inspection"
+        ],
+        "benefits": [
+          "Durability and Longevity",
+          "Low Maintenance",
+          "Energy Efficiency",
+          "Affordability"
+        ],
+        "faq": [
+          {
+            "question": "How long do vinyl windows last?",
+            "answer": "Vinyl windows can last for 20-40 years or more with proper care and maintenance."
+          },
+          {
+            "question": "Are vinyl windows energy-efficient?",
+            "answer": "Yes, vinyl windows are energy-efficient due to their insulating properties and airtight seals."
+          },
+          {
+            "question": "Do vinyl windows come in different colors?",
+            "answer": "Yes, vinyl windows are available in a variety of colors to match your home's exterior."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-installation",
+        "name": "Custom Window Installation",
+        "shortDescription": "Unique window solutions tailored to your home's specific needs.",
+        "description": "For homes with unique architectural features or specific design requirements, our custom window installation service provides tailored solutions. We work closely with you to design and install windows that perfectly match your home's style and your personal preferences. We offer a wide range of custom window options, including specialty shapes, sizes, and materials. \n\nOur experienced team can create custom windows to fit unusual openings, match historical designs, or enhance your home's aesthetic appeal. We use high-quality materials and precise craftsmanship to ensure lasting performance and beauty. From initial design to final installation, we pay attention to every detail to create windows that exceed your expectations. \n\nTransform your home with our custom window installation service. Contact us today to discuss your project and explore the possibilities.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Custom Window Design and Fabrication",
+          "Step 3: Precise Measurement and Fitting",
+          "Step 4: Professional Installation and Finishing"
+        ],
+        "benefits": [
+          "Unique Design Solutions",
+          "Perfect Fit and Finish",
+          "Enhanced Home Aesthetics",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom window shapes are available?",
+            "answer": "We can create custom windows in a variety of shapes, including arches, circles, triangles, and trapezoids."
+          },
+          {
+            "question": "Can you match the style of my existing windows?",
+            "answer": "Yes, we can match the style and design of your existing windows to maintain your home's architectural integrity."
+          },
+          {
+            "question": "How long does custom window installation take?",
+            "answer": "The duration of custom window installation depends on the complexity of the project. We will provide you with a detailed timeline during the design consultation."
+          }
+        ]
+      },
+      {
+        "slug": "historical-window-restoration",
+        "name": "Historical Window Restoration",
+        "shortDescription": "Preserving Milwaukee's architectural heritage with expert window restoration.",
+        "description": "Many homes in Milwaukee, especially in areas like the Third Ward and Bay View, boast beautiful historical windows. Our historical window restoration service is dedicated to preserving these architectural treasures. We understand the importance of maintaining the original character and craftsmanship of historical windows while improving their energy efficiency and functionality. \n\nWe carefully restore historical windows using traditional techniques and materials. We repair damaged frames, sashes, and hardware, and replace broken glass with historically accurate replacements. Our goal is to restore your windows to their original beauty while ensuring they meet modern standards for energy efficiency and performance. We offer consultation for historical preservation guidelines.\n\nPreserve your home's historical character with our expert window restoration service. Contact us today for a consultation.",
+        "process": [
+          "Step 1: Historical Window Assessment and Documentation",
+          "Step 2: Careful Disassembly and Cleaning",
+          "Step 3: Repair and Restoration of Original Components",
+          "Step 4: Reassembly and Installation with Energy-Efficient Upgrades"
+        ],
+        "benefits": [
+          "Preservation of Historical Character",
+          "Improved Energy Efficiency",
+          "Extended Window Lifespan",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "Do you follow historical preservation guidelines?",
+            "answer": "Yes, we adhere to historical preservation guidelines and work closely with historical societies to ensure our restoration work is historically accurate."
+          },
+          {
+            "question": "Can you replicate original window designs?",
+            "answer": "Yes, we can replicate original window designs using traditional techniques and materials."
+          },
+          {
+            "question": "What types of historical windows do you restore?",
+            "answer": "We restore a wide range of historical windows, including double-hung windows, casement windows, and stained-glass windows."
+          }
+        ]
+      },
+      {
+        "slug": "storm-window-installation",
+        "name": "Storm Window Installation",
+        "shortDescription": "Add an extra layer of protection against Wisconsin's harsh weather.",
+        "description": "Protect your windows and improve your home's energy efficiency with our storm window installation service. Storm windows provide an extra layer of insulation, reducing heat loss in winter and heat gain in summer. They also protect your windows from damage caused by hail, wind, and debris. \n\nWe offer a variety of storm window options to fit your needs and budget. Our expert installation team ensures precise fitting and sealing, maximizing the benefits of your new storm windows. Storm windows are an affordable way to improve your home's energy efficiency and protect your windows from the elements. \n\nPrepare your home for Wisconsin's harsh weather with our storm window installation service. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Storm Window Selection and Measurement",
+          "Step 2: Custom Storm Window Fabrication",
+          "Step 3: Professional Installation and Sealing",
+          "Step 4: Post-Installation Inspection"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Window Protection",
+          "Reduced Noise Pollution",
+          "Affordability"
+        ],
+        "faq": [
+          {
+            "question": "Are storm windows worth the investment?",
+            "answer": "Yes, storm windows are a cost-effective way to improve your home's energy efficiency and protect your windows from damage."
+          },
+          {
+            "question": "How do storm windows improve energy efficiency?",
+            "answer": "Storm windows create an extra layer of insulation, reducing heat transfer and air leakage."
+          },
+          {
+            "question": "Can storm windows be installed on any type of window?",
+            "answer": "Storm windows can be installed on most types of windows, including single-pane and double-pane windows."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Wauwatosa",
+        "slug": "wauwatosa-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is proud to serve the residents of Wauwatosa, WI, providing top-notch window replacement and installation services. Wauwatosa, known for its beautiful 1920s-40s Tudor and Colonial homes, requires windows that not only enhance the architectural charm but also provide superior energy efficiency to combat the harsh cold winters and heavy lake-effect snow. We understand the unique needs of Wauwatosa homeowners.\n\nOur team specializes in window solutions that complement the historic character of Wauwatosa homes while offering modern performance. From classic double-hung windows to custom designs, we ensure every installation is seamless and durable, protecting your home from the elements and reducing energy costs. We are committed to providing exceptional service and quality products to the Wauwatosa community.",
+        "localContext": "Wauwatosa's architectural landscape is defined by its charming Tudor and Colonial homes, requiring windows that maintain the historical aesthetic while providing modern energy efficiency to withstand the harsh Wisconsin winters.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "West Allis",
+          "Brookfield"
+        ]
+      },
+      {
+        "city": "Brookfield",
+        "slug": "brookfield-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is dedicated to serving the homeowners of Brookfield, WI, with expert window replacement and installation services. Brookfield, characterized by its upscale suburban homes built in the 1970s and 80s, presents unique window needs. Our team is well-versed in providing solutions that match the architectural styles and energy efficiency requirements of the area.\n\nWe offer a wide range of window styles and materials to suit the diverse preferences of Brookfield residents. Whether you're looking for energy-efficient vinyl windows or elegant wood frames, we have options to enhance the beauty and comfort of your home. With our commitment to quality and customer satisfaction, you can trust Quality Windows Specialists Inc. to deliver exceptional results in Brookfield.",
+        "localContext": "Brookfield's upscale suburban homes, largely built in the 1970s and 80s, often benefit from window upgrades that enhance energy efficiency and complement the existing architectural style.",
+        "nearbyAreas": [
+          "Elm Grove",
+          "Waukesha",
+          "New Berlin"
+        ]
+      },
+      {
+        "city": "Milwaukee",
+        "slug": "milwaukee-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. proudly serves the city of Milwaukee, WI, providing comprehensive window replacement and installation services. From the historic neighborhoods to the modern downtown areas, Milwaukee features a diverse range of architectural styles, each with its own unique window needs. We are committed to offering solutions that enhance the beauty, energy efficiency, and value of your Milwaukee home or business. \n\nOur experienced team understands the specific challenges posed by Milwaukee's climate and diverse building stock. We offer a wide selection of window materials and styles to suit any project, from traditional wood windows for historic homes to energy-efficient vinyl windows for modern constructions. Trust Quality Windows Specialists Inc. to deliver exceptional craftsmanship and customer service throughout Milwaukee.",
+        "localContext": "Milwaukee's diverse architecture, ranging from historic homes to modern buildings, requires a wide range of window solutions to meet both aesthetic and energy efficiency needs.",
+        "nearbyAreas": [
+          "West Allis",
+          "Shorewood",
+          "Wauwatosa"
+        ]
+      },
+      {
+        "city": "West Allis",
+        "slug": "west-allis-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is pleased to offer our high-quality window replacement and installation services to the residents of West Allis, WI. West Allis, known for its mix of residential and commercial properties, requires window solutions that are both aesthetically pleasing and highly functional. We understand the importance of energy efficiency and durability in the face of Wisconsin's challenging climate.\n\nOur team is dedicated to providing West Allis homeowners and businesses with exceptional service and top-notch products. We offer a wide range of window styles and materials, including energy-efficient vinyl, durable fiberglass, and classic wood options. Whether you're looking to upgrade your home's appearance, reduce your energy bills, or improve your building's security, Quality Windows Specialists Inc. is here to help.",
+        "localContext": "West Allis, with its blend of residential and commercial buildings, needs window solutions that balance aesthetics, functionality, and energy efficiency to withstand Wisconsin's climate.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "Greenfield",
+          "New Berlin"
+        ]
+      },
+      {
+        "city": "New Berlin",
+        "slug": "new-berlin-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is committed to providing exceptional window replacement and installation services to the residents of New Berlin, WI. New Berlin, characterized by its mix of suburban homes and rural landscapes, requires window solutions that are both stylish and energy-efficient. We understand the unique needs of New Berlin homeowners and strive to exceed their expectations.\n\nWe offer a wide range of window styles and materials to suit any project, from classic double-hung windows to modern casement windows. Our team is dedicated to providing personalized service and expert craftsmanship, ensuring that every installation is seamless and long-lasting. With Quality Windows Specialists Inc., you can trust that your New Berlin home is in good hands.",
+        "localContext": "New Berlin's blend of suburban and rural settings calls for window solutions that combine style and energy efficiency, catering to the diverse needs of its homeowners.",
+        "nearbyAreas": [
+          "Brookfield",
+          "Muskego",
+          "Waukesha"
+        ]
+      },
+      {
+        "city": "Waukesha",
+        "slug": "waukesha-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is proud to serve the city of Waukesha, WI, offering top-quality window replacement and installation services. Waukesha, with its blend of historic charm and modern development, requires window solutions that are both aesthetically pleasing and energy-efficient. We are dedicated to helping Waukesha homeowners and businesses enhance the beauty and value of their properties.\n\nOur experienced team understands the specific needs of Waukesha residents, from preserving the character of historic homes to improving the energy efficiency of modern buildings. We offer a wide range of window styles and materials to suit any project, and we are committed to providing exceptional customer service from start to finish. Trust Quality Windows Specialists Inc. to deliver outstanding results in Waukesha.",
+        "localContext": "Waukesha's mix of historic and modern architecture demands window solutions that balance aesthetics and energy efficiency, catering to the diverse needs of its community.",
+        "nearbyAreas": [
+          "Brookfield",
+          "New Berlin",
+          "Pewaukee"
+        ]
+      },
+      {
+        "city": "Pewaukee",
+        "slug": "pewaukee-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is delighted to offer our professional window replacement and installation services to the residents of Pewaukee, WI. Pewaukee, known for its beautiful lake and vibrant community, requires window solutions that are both stylish and durable. We understand the importance of energy efficiency and weather resistance in the face of Wisconsin's climate.\n\nOur team is committed to providing Pewaukee homeowners with exceptional service and top-quality products. We offer a wide range of window styles and materials, including energy-efficient vinyl, durable fiberglass, and elegant wood options. Whether you're looking to enhance your home's curb appeal, reduce your energy bills, or improve your comfort, Quality Windows Specialists Inc. is here to help.",
+        "localContext": "Pewaukee's lakeside environment and community focus makes it a location where homeowners value durable, weather-resistant windows that also enhance curb appeal.",
+        "nearbyAreas": [
+          "Waukesha",
+          "Brookfield",
+          "Sussex"
+        ]
+      },
+      {
+        "city": "Shorewood",
+        "slug": "shorewood-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is proud to serve the village of Shorewood, WI, providing expert window replacement and installation services. Shorewood, known for its charming homes and close proximity to Lake Michigan, requires window solutions that are both aesthetically pleasing and able to withstand the elements. We are committed to enhancing the beauty and energy efficiency of Shorewood homes.\n\nOur team understands the unique architectural styles and environmental challenges of Shorewood. We offer a wide range of window options, including energy-efficient models that can help reduce heating and cooling costs. Whether you're looking to replace a single window or upgrade all the windows in your home, Quality Windows Specialists Inc. is here to provide exceptional service and quality craftsmanship.",
+        "localContext": "Shorewood's lakeside location and charming homes mean residents value windows that are both beautiful and durable enough to withstand the elements while maintaining energy efficiency.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "Whitefish Bay",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Whitefish Bay",
+        "slug": "whitefish-bay-wi",
+        "state": "WI",
+        "content": "Quality Windows Specialists Inc. is dedicated to providing top-notch window replacement and installation services to the residents of Whitefish Bay, WI. Whitefish Bay, characterized by its beautiful homes and proximity to Lake Michigan, needs window solutions that are both stylish and durable. We understand the importance of energy efficiency and weather resistance in this lakeside community.\n\nOur team is committed to offering Whitefish Bay homeowners exceptional service and high-quality products. We offer a wide range of window styles and materials, including energy-efficient vinyl, durable fiberglass, and elegant wood options. Whether you're looking to enhance your home's curb appeal, reduce your energy bills, or improve your comfort, Quality Windows Specialists Inc. is here to help.",
+        "localContext": "Whitefish Bay's lakeside location makes it a place where homeowners value windows that are both beautiful and durable, able to withstand the elements while maintaining energy efficiency.",
+        "nearbyAreas": [
+          "Shorewood",
+          "Glendale",
+          "Milwaukee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Quality Windows Specialists did an amazing job replacing all the windows in my Wauwatosa bungalow. The team was professional, efficient, and the new windows look fantastic. I can already feel the difference in the temperature inside my home!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Energy-Efficient Windows",
+        "text": "We had Quality Windows Specialists install energy-efficient windows in our Brookfield home. The installation was smooth, and the crew was very respectful of our property. We're looking forward to seeing the savings on our energy bills this winter.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Window Repair",
+        "text": "I had a broken window pane in my Third Ward loft, and Quality Windows Specialists repaired it quickly and affordably. They were professional and did a great job matching the existing window style.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Vinyl Window Replacement",
+        "text": "After getting several quotes, we chose Quality Windows Specialists for our vinyl window replacement project. They were the most knowledgeable and offered the best value. The windows look great, and the installation was flawless.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Custom Window Installation",
+        "text": "We needed a custom window installed in our sunroom, and Quality Windows Specialists delivered exactly what we wanted. They were creative, detail-oriented, and the finished product is beautiful.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Historical Window Restoration",
+        "text": "We hired Quality Windows Specialists to restore the original windows in our 1920s Tudor home. They did an amazing job preserving the historical details while improving the energy efficiency. Highly recommend!",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Quality Windows Specialists Inc",
+        "description": "Milwaukee's trusted window replacement experts. Energy-efficient windows, expert installation. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Quality Windows Specialists",
+        "description": "Learn about Quality Windows Specialists Inc. Milwaukee's premier window replacement company. Local experts, quality work."
+      },
+      "services": {
+        "title": "Window Services | Milwaukee WI",
+        "description": "Window replacement, repair, vinyl, energy-efficient. Serving Milwaukee, Wauwatosa, Brookfield. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Us | Quality Windows Specialists",
+        "description": "Contact Quality Windows Specialists for window replacement quotes. Serving Milwaukee, Wauwatosa, and Brookfield."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Quality Windows",
+        "description": "Read reviews for Quality Windows Specialists Inc. See why Milwaukee homeowners trust us for window replacement."
+      },
+      "service-areas": {
+        "title": "Service Areas | Quality Windows",
+        "description": "Quality Windows Specialists Inc. serves Milwaukee, Wauwatosa, Brookfield. Expert window replacement and repair services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "energy-efficient-windows": "/images/service-energy-efficient-windows.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "vinyl-window-replacement": "/images/service-vinyl-window-replacement.webp",
+      "custom-window-installation": "/images/service-custom-window-installation.webp",
+      "historical-window-restoration": "/images/service-historical-window-restoration.webp",
+      "storm-window-installation": "/images/service-storm-window-installation.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "energy-efficient-windows": {
+        "src": "/images/service-energy-efficient-windows.webp",
+        "srcset": "/images/service-energy-efficient-windows-400w.webp 400w, /images/service-energy-efficient-windows-800w.webp 800w, /images/service-energy-efficient-windows-1200w.webp 1200w, /images/service-energy-efficient-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-window-replacement": {
+        "src": "/images/service-vinyl-window-replacement.webp",
+        "srcset": "/images/service-vinyl-window-replacement-400w.webp 400w, /images/service-vinyl-window-replacement-800w.webp 800w, /images/service-vinyl-window-replacement-1200w.webp 1200w, /images/service-vinyl-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-installation": {
+        "src": "/images/service-custom-window-installation.webp",
+        "srcset": "/images/service-custom-window-installation-400w.webp 400w, /images/service-custom-window-installation-800w.webp 800w, /images/service-custom-window-installation-1200w.webp 1200w, /images/service-custom-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "historical-window-restoration": {
+        "src": "/images/service-historical-window-restoration.webp",
+        "srcset": "/images/service-historical-window-restoration-400w.webp 400w, /images/service-historical-window-restoration-800w.webp 800w, /images/service-historical-window-restoration-1200w.webp 1200w, /images/service-historical-window-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-window-installation": {
+        "src": "/images/service-storm-window-installation.webp",
+        "srcset": "/images/service-storm-window-installation-400w.webp 400w, /images/service-storm-window-installation-800w.webp 800w, /images/service-storm-window-installation-1200w.webp 1200w, /images/service-storm-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
